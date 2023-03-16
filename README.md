@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<!--
-**dugabrielle/dugabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Sou a Gabrielle 🕸️
 
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
--->
+
+### My skills 🕸️
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
