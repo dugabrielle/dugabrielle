@@ -1,4 +1,4 @@
-### Olá! Sou a Gabrielle 🕸️
+### Olá, sou a Gabrielle! 
 
 - 🌱 Estudando JavaScript
 
