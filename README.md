@@ -1,6 +1,6 @@
 ### Olá, sou a Gabrielle! 
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e Java
 
 ### My skills 
 
