@@ -1,5 +1,5 @@
 ### Olá! 🧙‍♀️
-Sou a Gabrielle, moro em Araraquara/SP e estou cursando Análise e Desenvolvimento de Sistemas.
+Sou a Gabrielle, moro em Araraquara/SP, estou cursando Análise e Desenvolvimento e buscando minha primeira oportunidade na área.
 
 ### 💻 Habilidades em desenvolvimento
 
