@@ -7,6 +7,7 @@ Sou a Gabrielle, moro em Araraquara/SP, estou cursando Análise e Desenvolviment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 
 ### 🛠️ Ferramentas
 
