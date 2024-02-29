@@ -8,6 +8,8 @@ Sou a Gabrielle, moro em Araraquara/SP, estudo Análise e Desenvolvimento de Sis
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"/>
+
 
 ### 🛠️ Ferramentas
 
