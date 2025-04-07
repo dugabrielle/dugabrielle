@@ -1,23 +1,18 @@
 ### Olá! 🧙‍♀️
-Sou a Gabrielle, moro em Araraquara/SP, estudo Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área.
+Sou a Gabrielle, moro em Araraquara/SP, sou formada em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de desenvolvimento.
 
 ### 💻 Habilidades em desenvolvimento
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Html" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Css" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" alt="Dart" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"/>
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" alt="Dart" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="35" height="40" style="margin: 0 2px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="40" style="margin: 0 2px;" />
+</div>
 
-
-
-
-### 🛠️ Ferramentas
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="Intellij" width="35" heigth="40" style="max-width:100%; margin: 0 2px;"></img>
 
 ### 🌐 Conecte-se comigo
 
