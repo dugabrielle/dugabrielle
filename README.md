@@ -1,5 +1,5 @@
 ### Olá! 🧙‍♀️
-Sou a Gabrielle, moro em Araraquara/SP, sou formada em Análise e Desenvolvimento de Sistemas e estou em busca da minha primeira oportunidade na área de desenvolvimento.
+Sou a Gabrielle, moro em Araraquara/SP, sou formada em Análise e Desenvolvimento de Sistemas. Este perfil é voltado apenas para estudos e experiências relacionadas a desenvolvimento web e mobile.
 
 ### 💻 Habilidades em desenvolvimento
 
