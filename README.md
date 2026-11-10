@@ -16,4 +16,4 @@ Sou a Gabrielle, moro em Araraquara/SP e sou formada em Análise e Desenvolvimen
 
 ### 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/gabrielle-duarte-5b41331a0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrielleariduarte" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
